@@ -7,8 +7,23 @@
   <link rel="stylesheet" href="css/styles.css">
 </head>
 <body>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="js/stmd.js"></script>
 <script src="js/render.js"></script>
+
+<script>
+jQuery( 'body' )
+    .click(function() {
+    	do_the_click( this.href );
+    	return false;
+    });
+
+// play the funky music white boy
+function do_the_click( url )
+{
+    alert( url );
+}
+</script>
 </script>
 </body>
 </html>
