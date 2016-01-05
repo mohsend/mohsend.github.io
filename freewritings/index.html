@@ -6,13 +6,13 @@
   <title></title>
   <link rel="stylesheet" href="css/styles.css">
 </head>
-<body>
+<body class="mainbody">
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
 <script src="js/stmd.js"></script>
 <script src="js/render.js"></script>
 
 <script>
-jQuery( 'body a' )
+jQuery( 'body.mainbody a' )
     .click(function() {
     	do_the_click( this.href );
     	return false;
