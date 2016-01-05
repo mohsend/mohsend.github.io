@@ -1,10 +1,10 @@
 # Hello world
 
-﻿Plan: 
+﻿Plan:
 Start writing without purpose.
 
-Execution: 
+Execution:
 Keep typing, do as much as possible.
 
-1451949819 - Tehran
+1451949819 - Tehran  
 1452006669 - Tehran
