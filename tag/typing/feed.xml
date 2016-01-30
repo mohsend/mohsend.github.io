@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mehsen: Typing</title>
+  <subtitle>Posts tagged with Typing</subtitle>
+  <id>http://mohsend.github.io</id>
+  <link href="http://mohsend.github.io"/>
+  <link href="http://mohsend.github.io/tag/typing/feed.xml" rel="self"/>
+  <updated>2015-12-13T03:30:00+03:30</updated>
+  <author>
+    <name>Mohsen Dastjerdi Zade</name>
+  </author>
+  <entry>
+    <title>My new theme for Focuswriter got me﻿ typing</title>
+    <link rel="alternate" href="http://mohsend.github.io/2015/12/13/focuswriter-got-me-typing/"/>
+    <id>http://mohsend.github.io/2015/12/13/focuswriter-got-me-typing/</id>
+    <published>2015-12-13T03:30:00+03:30</published>
+    <updated>2016-01-30T18:47:59+03:30</updated>
+    <author>
+      <name>Mohsen Dastjerdi Zade</name>
+    </author>
+    <summary type="html">Typing with the sound, background and the font of a typewriter! </summary>
+  </entry>
+</feed>

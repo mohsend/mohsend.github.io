@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mehsen: point of view</title>
+  <subtitle>Posts tagged with point of view</subtitle>
+  <id>http://mohsend.github.io</id>
+  <link href="http://mohsend.github.io"/>
+  <link href="http://mohsend.github.io/tag/point-of-view/feed.xml" rel="self"/>
+  <updated>2016-01-08T03:30:00+03:30</updated>
+  <author>
+    <name>Mohsen Dastjerdi Zade</name>
+  </author>
+  <entry>
+    <title>Angle</title>
+    <link rel="alternate" href="http://mohsend.github.io/2016/01/08/angle/"/>
+    <id>http://mohsend.github.io/2016/01/08/angle/</id>
+    <published>2016-01-08T03:30:00+03:30</published>
+    <updated>2016-01-30T18:50:47+03:30</updated>
+    <author>
+      <name>Mohsen Dastjerdi Zade</name>
+    </author>
+    <summary type="html">I’m generally not satisfied (about everything me) because instead of looking at quality, all I see about what I do is quantity. which is not that flattering.
+
+Then there are those who got both, and I’m just jealous of them. </summary>
+  </entry>
+</feed>

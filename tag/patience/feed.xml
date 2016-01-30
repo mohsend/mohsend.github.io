@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mehsen: patience</title>
+  <subtitle>Posts tagged with patience</subtitle>
+  <id>http://mohsend.github.io</id>
+  <link href="http://mohsend.github.io"/>
+  <link href="http://mohsend.github.io/tag/patience/feed.xml" rel="self"/>
+  <updated>2016-01-11T03:30:00+03:30</updated>
+  <author>
+    <name>Mohsen Dastjerdi Zade</name>
+  </author>
+  <entry>
+    <title>Sleep on it</title>
+    <link rel="alternate" href="http://mohsend.github.io/2016/01/11/sleep-on-it/"/>
+    <id>http://mohsend.github.io/2016/01/11/sleep-on-it/</id>
+    <published>2016-01-11T03:30:00+03:30</published>
+    <updated>2016-01-30T18:39:27+03:30</updated>
+    <author>
+      <name>Mohsen Dastjerdi Zade</name>
+    </author>
+    <summary type="html">I’m starting to realize that good things don’t get made in one sitting. They take time over several sessions. Leaving for a day and revising your work makes all the difference between mediocre and extraordinary.
+
+Also having someone around, even if they</summary>
+  </entry>
+</feed>
