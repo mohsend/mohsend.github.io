@@ -5,16 +5,27 @@
   <id>http://mohsend.github.io</id>
   <link href="http://mohsend.github.io"/>
   <link href="http://mohsend.github.io/feed.xml" rel="self"/>
-  <updated>2016-01-17T03:30:00+03:30</updated>
+  <updated>2016-01-30T03:30:00+03:30</updated>
   <author>
     <name>Mohsen Dastjerdi Zade</name>
   </author>
+  <entry>
+    <title>Back&amp;#44; in style</title>
+    <link rel="alternate" href="http://mohsend.github.io/2016/01/30/back-in-style/"/>
+    <id>http://mohsend.github.io/2016/01/30/back-in-style/</id>
+    <published>2016-01-30T03:30:00+03:30</published>
+    <updated>2016-01-31T12:21:04+03:30</updated>
+    <author>
+      <name>Mohsen Dastjerdi Zade</name>
+    </author>
+    <summary type="html">It’s been a while since I practiced free writing. And not-so-coincidentally It’s been the same while since my last exam. The struggle is real people! </summary>
+  </entry>
   <entry>
     <title>Mightier</title>
     <link rel="alternate" href="http://mohsend.github.io/2016/01/17/mightier/"/>
     <id>http://mohsend.github.io/2016/01/17/mightier/</id>
     <published>2016-01-17T03:30:00+03:30</published>
-    <updated>2016-01-30T19:26:31+03:30</updated>
+    <updated>2016-01-31T12:19:45+03:30</updated>
     <author>
       <name>Mohsen Dastjerdi Zade</name>
     </author>
@@ -32,7 +43,7 @@ The pencil is mightier than the pen.  &amp;mdash;me </summary>
     <link rel="alternate" href="http://mohsend.github.io/2016/01/11/sleep-on-it/"/>
     <id>http://mohsend.github.io/2016/01/11/sleep-on-it/</id>
     <published>2016-01-11T03:30:00+03:30</published>
-    <updated>2016-01-30T18:39:27+03:30</updated>
+    <updated>2016-01-31T12:20:00+03:30</updated>
     <author>
       <name>Mohsen Dastjerdi Zade</name>
     </author>
@@ -45,7 +56,7 @@ Also having someone around, even if they</summary>
     <link rel="alternate" href="http://mohsend.github.io/2016/01/10/late-night-crazy/"/>
     <id>http://mohsend.github.io/2016/01/10/late-night-crazy/</id>
     <published>2016-01-10T03:30:00+03:30</published>
-    <updated>2016-01-30T18:30:02+03:30</updated>
+    <updated>2016-01-31T12:20:07+03:30</updated>
     <author>
       <name>Mohsen Dastjerdi Zade</name>
     </author>
@@ -56,7 +67,7 @@ Also having someone around, even if they</summary>
     <link rel="alternate" href="http://mohsend.github.io/2016/01/09/for-when-im-bored/"/>
     <id>http://mohsend.github.io/2016/01/09/for-when-im-bored/</id>
     <published>2016-01-09T03:30:00+03:30</published>
-    <updated>2016-01-30T18:37:51+03:30</updated>
+    <updated>2016-01-31T12:20:38+03:30</updated>
     <author>
       <name>Mohsen Dastjerdi Zade</name>
     </author>
@@ -69,23 +80,10 @@ We all said it at some point. Some like me more than others. And yet there are s
     <link rel="alternate" href="http://mohsend.github.io/2016/01/08/tired/"/>
     <id>http://mohsend.github.io/2016/01/08/tired/</id>
     <published>2016-01-08T03:30:00+03:30</published>
-    <updated>2016-01-30T18:27:28+03:30</updated>
+    <updated>2016-01-31T12:18:41+03:30</updated>
     <author>
       <name>Mohsen Dastjerdi Zade</name>
     </author>
     <summary type="html">It’s a special kind of tired. The only way I managed to describe the feeling was “I don’t wanna sleep; I want to die”. </summary>
-  </entry>
-  <entry>
-    <title>Angle</title>
-    <link rel="alternate" href="http://mohsend.github.io/2016/01/08/angle/"/>
-    <id>http://mohsend.github.io/2016/01/08/angle/</id>
-    <published>2016-01-08T03:30:00+03:30</published>
-    <updated>2016-01-30T18:50:47+03:30</updated>
-    <author>
-      <name>Mohsen Dastjerdi Zade</name>
-    </author>
-    <summary type="html">I’m generally not satisfied (about everything me) because instead of looking at quality, all I see about what I do is quantity. which is not that flattering.
-
-Then there are those who got both, and I’m just jealous of them. </summary>
   </entry>
 </feed>

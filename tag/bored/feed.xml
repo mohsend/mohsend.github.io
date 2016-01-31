@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mehsen: Bored</title>
+  <subtitle>Posts tagged with Bored</subtitle>
+  <id>http://mohsend.github.io</id>
+  <link href="http://mohsend.github.io"/>
+  <link href="http://mohsend.github.io/tag/bored/feed.xml" rel="self"/>
+  <updated>2016-01-09T03:30:00+03:30</updated>
+  <author>
+    <name>Mohsen Dastjerdi Zade</name>
+  </author>
+  <entry>
+    <title>For when I’m bored</title>
+    <link rel="alternate" href="http://mohsend.github.io/2016/01/09/for-when-im-bored/"/>
+    <id>http://mohsend.github.io/2016/01/09/for-when-im-bored/</id>
+    <published>2016-01-09T03:30:00+03:30</published>
+    <updated>2016-01-31T12:20:38+03:30</updated>
+    <author>
+      <name>Mohsen Dastjerdi Zade</name>
+    </author>
+    <summary type="html">“I’m bored.”
+
+We all said it at some point. Some like me more than others. And yet there are so many undone tasks, or things you wanted to do when you were busy and didn’t had the time. </summary>
+  </entry>
+</feed>
