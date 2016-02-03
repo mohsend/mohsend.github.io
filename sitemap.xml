@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://mohsend.github.io/pages/me/index.html</loc>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://mohsend.github.io/pages/friends/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mohsend.github.io/pages/license/index.html</loc>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,13 +50,19 @@
   </url>
   <url>
     <loc>http://mohsend.github.io/2016/01/30/back-in-style/index.html</loc>
-    <lastmod>2016-01-31T12:21:04+03:30</lastmod>
+    <lastmod>2016-02-01T01:23:05+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/2016/01/05/why-not/index.html</loc>
     <lastmod>2016-01-31T12:19:19+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mohsend.github.io/2016/02/03/google-takeout/index.html</loc>
+    <lastmod>2016-02-03T12:08:15+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -74,109 +92,115 @@
   </url>
   <url>
     <loc>http://mohsend.github.io/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/author/mohsen-dastjerdi-zade/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/freewriting/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/point-of-view/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/typing/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/app/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/so-what/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/feelz/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/pencil/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/blog/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/reasons/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mohsend.github.io/tag/til/index.html</loc>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/bored/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/tired/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/patience/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/getting-started/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/page/2/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/author/mohsen-dastjerdi-zade/page/2/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://mohsend.github.io/tag/freewriting/page/2/index.html</loc>
-    <lastmod>2016-01-31T12:23:35+03:30</lastmod>
+    <lastmod>2016-02-03T12:12:54+03:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
