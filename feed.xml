@@ -5,25 +5,34 @@
   <id>https://mehsen.com</id>
   <link href="https://mehsen.com"/>
   <link href="https://mehsen.com/feed.xml" rel="self"/>
-  <updated>2016-05-02T04:30:00+04:30</updated>
+  <updated>2016-05-23T04:30:00+04:30</updated>
   <author>
     <name>Mohsen Dastjerdi Zade</name>
   </author>
   <entry>
-    <title>o</title>
-    <link rel="alternate" href="https://mehsen.com/2016/05/02/o/"/>
-    <id>https://mehsen.com/2016/05/02/o/</id>
-    <published>2016-05-02T04:30:00+04:30</published>
-    <updated>2016-05-02T13:17:35+04:30</updated>
+    <title>What a Time!</title>
+    <link rel="alternate" href="https://mehsen.com/2016/05/23/What-a-time/"/>
+    <id>https://mehsen.com/2016/05/23/What-a-time/</id>
+    <published>2016-05-23T04:30:00+04:30</published>
+    <updated>2016-05-23T17:31:27+04:30</updated>
     <author>
       <name>Mohsen Dastjerdi Zade</name>
     </author>
-    <summary type="html">Ég gaf ykkur von sem varð að vonbrigðum&amp;hellip; þetta er ágætis byrjun
+    <summary type="html">It amazes me every time I think about how enabling computers are.
+When used correctly even a very underpowered one can be a powerful tool to do incredible things. Coupled with the Internet, everyone with a PC has unlimited information at disposal, and</summary>
+  </entry>
+  <entry>
+    <title>Ég gaf ykkur von sem varð að vonbrigðum</title>
+    <link rel="alternate" href="https://mehsen.com/2016/05/02/a-good-begining/"/>
+    <id>https://mehsen.com/2016/05/02/a-good-begining/</id>
+    <published>2016-05-02T04:30:00+04:30</published>
+    <updated>2016-05-23T17:30:19+04:30</updated>
+    <author>
+      <name>Mohsen Dastjerdi Zade</name>
+    </author>
+    <summary type="html">&amp;hellip; þetta er ágætis byrjun.
 
-(Sigur Rós)
-1462178163 - Tehran
-
-</summary>
+~Sigur Rós </summary>
   </entry>
   <entry>
     <title>Backing up your entire Google account data</title>
@@ -37,6 +46,17 @@
     <summary type="html">Today I Learned Google provides users a simple way to archive and download all of their data on Google. Including Gmail and Drive.
 
 Few days ago someone approached me with a problem, “My Gmail ran out of space and I need all my emails, they contain important data.” </summary>
+  </entry>
+  <entry>
+    <title>Untitled I</title>
+    <link rel="alternate" href="https://mehsen.com/2016/01/31/untitled-i/"/>
+    <id>https://mehsen.com/2016/01/31/untitled-i/</id>
+    <published>2016-01-31T03:30:00+03:30</published>
+    <updated>2016-05-23T17:33:51+04:30</updated>
+    <author>
+      <name>Mohsen Dastjerdi Zade</name>
+    </author>
+    <summary type="html">Way past midnight I contacted a friend and I’m glad that I did. </summary>
   </entry>
   <entry>
     <title>Back&amp;#44; in style</title>
@@ -66,29 +86,5 @@ Sure. But on top of that I believe:
 
 
 The pencil is mightier than the pen.  &amp;mdash;me </summary>
-  </entry>
-  <entry>
-    <title>Sleep on it</title>
-    <link rel="alternate" href="https://mehsen.com/2016/01/11/sleep-on-it/"/>
-    <id>https://mehsen.com/2016/01/11/sleep-on-it/</id>
-    <published>2016-01-11T03:30:00+03:30</published>
-    <updated>2016-01-31T12:20:00+03:30</updated>
-    <author>
-      <name>Mohsen Dastjerdi Zade</name>
-    </author>
-    <summary type="html">I’m starting to realize that good things don’t get made in one sitting. They take time over several sessions. Leaving for a day and revising your work makes all the difference between mediocre and extraordinary.
-
-Also having someone around, even if they</summary>
-  </entry>
-  <entry>
-    <title>Late night crazy</title>
-    <link rel="alternate" href="https://mehsen.com/2016/01/10/late-night-crazy/"/>
-    <id>https://mehsen.com/2016/01/10/late-night-crazy/</id>
-    <published>2016-01-10T03:30:00+03:30</published>
-    <updated>2016-01-31T12:20:07+03:30</updated>
-    <author>
-      <name>Mohsen Dastjerdi Zade</name>
-    </author>
-    <summary type="html">Or how my sudden obsession with writing came to be </summary>
   </entry>
 </feed>

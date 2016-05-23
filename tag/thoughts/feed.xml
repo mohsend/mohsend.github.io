@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>mehsen: Thoughts</title>
+  <subtitle>Posts tagged with Thoughts</subtitle>
+  <id>https://mehsen.com</id>
+  <link href="https://mehsen.com"/>
+  <link href="https://mehsen.com/tag/thoughts/feed.xml" rel="self"/>
+  <updated>2016-05-23T04:30:00+04:30</updated>
+  <author>
+    <name>Mohsen Dastjerdi Zade</name>
+  </author>
+  <entry>
+    <title>What a Time!</title>
+    <link rel="alternate" href="https://mehsen.com/2016/05/23/What-a-time/"/>
+    <id>https://mehsen.com/2016/05/23/What-a-time/</id>
+    <published>2016-05-23T04:30:00+04:30</published>
+    <updated>2016-05-23T17:31:27+04:30</updated>
+    <author>
+      <name>Mohsen Dastjerdi Zade</name>
+    </author>
+    <summary type="html">It amazes me every time I think about how enabling computers are.
+When used correctly even a very underpowered one can be a powerful tool to do incredible things. Coupled with the Internet, everyone with a PC has unlimited information at disposal, and</summary>
+  </entry>
+</feed>
