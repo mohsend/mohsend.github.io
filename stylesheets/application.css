@@ -1570,7 +1570,10 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 .site-footer {
-    position: relative;
+    position: absolute;
+    right: 0;
+    left: 0;
+    bottom: 0;
     margin: 8rem 0 0 0;
     padding: 1rem 15px;
     font-family: "Open Sans", sans-serif;
