@@ -1450,10 +1450,9 @@ body:not(.post-template) .post-title {
 /* Correctly position site-footer when next to the .read-next container */
 .read-next + .site-footer {
     position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: 0;
+    bottom: auto;
+    left: auto;
+    right: auto;
 }
 
 /* ==========================================================================
@@ -1570,10 +1569,7 @@ body:not(.post-template) .post-title {
    ========================================================================== */
 
 .site-footer {
-    position: absolute;
-    right: 0;
-    left: 0;
-    bottom: 0;
+    position: relative;
     margin: 8rem 0 0 0;
     padding: 1rem 15px;
     font-family: "Open Sans", sans-serif;
