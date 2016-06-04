@@ -1,0 +1,34 @@
+# Dependencies
+markdown:         kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Gems
+gems: [jekyll-paginate]
+
+# Setup
+title:            mehsen
+tagline:          'A Jekyll theme'
+description:      ''
+url:              https://mehsen.com
+baseurl:          /
+
+author:
+  name:           'Mohsen Dastjerdi Zade'
+  url:            https://mehsen.com/me/
+
+paginate:         7
+
+# Custom vars
+options:
+  theme:			theme-base-0c
+
+social:
+  github:           https://github.com/mohsend
+  twitter:			
+  googleplus:		
+  email:			mailto:me@mehsen.com
+  linkedin:			
+  instagram:		
+  telegram:			
