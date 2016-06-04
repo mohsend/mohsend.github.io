@@ -11,8 +11,6 @@ Start writing without purpose.
 
 <!--more-->
 
-
-
 Execution:
 Keep typing, do as much as possible.
 

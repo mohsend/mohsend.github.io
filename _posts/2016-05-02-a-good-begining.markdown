@@ -1,7 +1,7 @@
 ---
 title: Ég gaf ykkur von sem varð að vonbrigðum
 date: 2016-05-02
-category:  
+category: Music
 tags: Music, Icelandic, Quote
 layout: post
 image:

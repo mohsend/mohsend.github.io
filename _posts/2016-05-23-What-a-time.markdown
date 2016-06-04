@@ -1,8 +1,8 @@
 ---
 title: What a Time!
 date: 2016-05-23
-category:  
-tags: Thoughts
+category: Freewritings
+tags: Thoughts, Freewritings
 layout: post
 ---
 It amazes me every time I think about how enabling computers are.

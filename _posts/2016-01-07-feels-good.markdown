@@ -15,8 +15,6 @@ That’s why I do **Open Source**.
 
 <!--more-->
 
-
-
 ```
 1452114208 - Tehran  
 ```
