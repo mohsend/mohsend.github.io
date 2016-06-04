@@ -13,6 +13,7 @@ tagline:          'personal mehsite'
 description:      'A blog for expressing my strong meh stance on various matters.'
 url:              https://mehsen.com
 baseurl:          /
+enforce_ssl:      mehsen.com
 
 author:
   name:           'Mohsen Dastjerdi Zade'
