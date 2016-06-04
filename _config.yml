@@ -10,7 +10,7 @@ gems: [jekyll-paginate]
 # Setup
 title:            mehsen
 tagline:          'personal mehsite'
-description:      'A blog for expressing my strong meh stance on various matters.'
+description:      'A blog for expressing my strong <img src="/public/meh-desc.png" style="display: inline; margin: 0;" alt="meh" title="meh"> stance on various matters.'
 url:              https://mehsen.com
 baseurl:          /
 enforce_ssl:      mehsen.com
