@@ -9,7 +9,7 @@ gems: [jekyll-paginate]
 
 # Setup
 title:            mehsen
-tagline:          'A Jekyll theme'
+tagline:          'personal mehsite'
 description:      ''
 url:              https://mehsen.com
 baseurl:          /
@@ -26,9 +26,9 @@ options:
 
 social:
   github:           https://github.com/mohsend
-  twitter:			
-  googleplus:		
+  twitter:			https://twitter.com/dstjrd
+  googleplus:		https://plus.google.com/+mohsendastjerdizade
   email:			mailto:me@mehsen.com
-  linkedin:			
-  instagram:		
-  telegram:			
+  linkedin:			https://ir.linkedin.com/in/mohsend
+  instagram:		https://www.instagram.com/mehsend/
+  telegram:			https://telegram.me/mehsend
