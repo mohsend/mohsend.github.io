@@ -28,12 +28,12 @@
     <meta content="{{ page.excerpt }}" property="twitter:description" />
   {% endif %}
 
-  {% if page.image.feature %}
-    <meta content="{{ page.image.feature }}" name="image" />
-    <meta content="{{ page.image.feature }}" name="og:image" />
-    <meta content="{{ page.image.feature }}" name="twitter:image:src" />
+  {% if page.image.featured %}
+    <meta content="{{ site.url }}{{ page.image.featured }}" name="image" />
+    <meta content="{{ site.url }}{{ page.image.featured }}" name="og:image" />
+    <meta content="{{ site.url }}{{ page.image.featured }}" name="twitter:image:src" />
   {% else %}
-    <meta content="{{ site.options.image }}" name="image" />
-    <meta content="{{ site.options.image }}" name="og:image" />
-    <meta content="{{ site.options.image }}" name="twitter:image:src" />
+    <meta content="{{ site.url }}{{ site.options.image }}" name="image" />
+    <meta content="{{ site.url }}{{ site.options.image }}" name="og:image" />
+    <meta content="{{ site.url }}{{ site.options.image }}" name="twitter:image:src" />
   {% endif %}

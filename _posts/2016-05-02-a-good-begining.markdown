@@ -4,6 +4,8 @@ date: 2016-05-02
 category:  
 tags: Music, Icelandic, Quote
 layout: post
+image:
+  featured: /public/posts/2016-05-02-disappointment.jpg
 ---
 
 ... þetta er ágætis byrjun.

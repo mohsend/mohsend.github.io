@@ -2,6 +2,13 @@
 	font-size: 0.6rem;
 }
 
+.featuredimage {
+	width: 100%;
+	display: block;
+	margin: 0 0 1rem 0;
+	border-radius: 0;
+}
+
 /* Uncomment if your content is RTL
 .post {
 	direction: rtl;
