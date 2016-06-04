@@ -1,10 +1,28 @@
-  <meta content="{{ page.title }}" property="title" />
-  <meta content="{{ page.title }}" property="og:title" />
-  <meta content="{{ page.title }}" property="twitter:title" />
+  <!-- http://ogp.me/ -->
+  {% if page.title == "Home" %}
+    <meta content="{{ site.title }} &middot; {{ site.tagline }}" property="title" />
+    <meta content="{{ site.title }} &middot; {{ site.tagline }}" property="og:title" />
+    <meta content="{{ site.title }} &middot; {{ site.tagline }}" property="twitter:title" />
+    <meta content="website" property="type" />
+    <meta content="website" property="og:type" />
+    <meta content="website" property="twitter:type" />
+  {% else %}
+    <meta content="{{ page.title }} &middot; {{ site.title }}" property="title" />
+    <meta content="{{ page.title }} &middot; {{ site.title }}" property="og:title" />
+    <meta content="{{ page.title }} &middot; {{ site.title }}" property="twitter:title" />
+    <meta content="article" property="type" />
+    <meta content="article" property="og:type" />
+    <meta content="article" property="twitter:type" />
+    <meta content="{{ site.author.name }}" name="article:author">
+    <meta content="{{ site.author.name }}" name="og:article:author">
+    <meta content="{{ site.author.name }}" name="twitter:article:author">
+  {% endif %}
+  <meta content="{{ site.url }}{{ page.url }}" property="url" />
+  <meta content="{{ site.url }}{{ page.url }}" property="og:url" />
+  <meta content="{{ site.url }}{{ page.url }}" property="twitter:url" />
   <meta content="{{ site.description }}" name="description">
   <meta content="{{ site.description }}" property="og:description" />
   <meta content="{{ site.description }}" property="twitter:description" />
-  <meta content="{{ site.author.name }}" name="author">
   <meta content="{{ site.options.image }}" name="image" />
-  <meta content="{{ site.options.image }}" name="twitter:image:src" />
   <meta content="{{ site.options.image }}" name="og:image" />
+  <meta content="{{ site.options.image }}" name="twitter:image:src" />
