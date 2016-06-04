@@ -24,7 +24,7 @@ paginate:         7
 # Custom vars
 options:
   theme:			theme-base-0c
-
+  license:          '<a href="https://creativecommons.org/licenses/by/4.0/" rel="license"><img src="/public/cc-by.png" style="display: inline; margin: 0;" alt="Creative Commons Attribution License" alt="Creative Commons Attribution License"></a>'
 social:
   github:           https://github.com/mohsend
   twitter:			https://twitter.com/dstjrd
