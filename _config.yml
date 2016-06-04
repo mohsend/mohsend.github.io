@@ -11,7 +11,7 @@ gems: [jekyll-paginate]
 # Setup
 title:            mehsen
 tagline:          'personal mehsite'
-description:      'A blog for expressing my strong <img src="/public/meh-desc.png" style="display: inline; margin: 0; width: 32px; height: 22px;" alt="meh" title="meh"> stance on various matters.'
+description:      'A blog for expressing my strong meh stance on various matters.'
 url:              https://mehsen.com
 baseurl:          /
 enforce_ssl:      mehsen.com
@@ -26,6 +26,7 @@ paginate:         7
 options:
   theme:			theme-base-0c
   license:          '<a href="https://creativecommons.org/licenses/by/4.0/" rel="license"><img src="/public/cc-by.png" style="display: inline; margin: 0; width: 80px; height: 15px;" alt="Creative Commons Attribution License" alt="Creative Commons Attribution License"></a>'
+  image:			'https://mehsen.com/public/favicon/apple-touch-icon-180x180.png'
 
 social:
   github:           https://github.com/mohsend
