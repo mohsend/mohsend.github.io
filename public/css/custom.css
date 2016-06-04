@@ -1,4 +1,8 @@
-#licence {
+.rtl {
+	direction: rtl;
+}
+
+.sidebar .licence {
 	font-size: 0.6rem;
 }
 

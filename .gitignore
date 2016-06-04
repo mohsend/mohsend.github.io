@@ -1,5 +1,5 @@
 # Ignore Drafts
-_Drafts/*
+_drafts/*
 
 # Ignore docs files
 _gh_pages

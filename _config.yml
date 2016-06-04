@@ -19,6 +19,7 @@ enforce_ssl:      mehsen.com
 author:
   name:           'Mohsen Dastjerdi Zade'
   url:            https://mehsen.com/me/
+  email:
 
 paginate:         7
 

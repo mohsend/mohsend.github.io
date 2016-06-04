@@ -10,9 +10,9 @@
     <meta content="website" property="type" />
     <meta content="website" property="og:type" />
     <meta content="website" property="twitter:type" />
-    <meta content="{{ site.description }}" name="description">
-    <meta content="{{ site.description }}" property="og:description" />
-    <meta content="{{ site.description }}" property="twitter:description" />
+    <meta content="{{ site.description | strip_html | strip_newlines}}" name="description">
+    <meta content="{{ site.description | strip_html | strip_newlines}}" property="og:description" />
+    <meta content="{{ site.description | strip_html | strip_newlines}}" property="twitter:description" />
   {% else %}
     <meta content="{{ page.title }} &middot; {{ site.title }}" property="title" />
     <meta content="{{ page.title }} &middot; {{ site.title }}" property="og:title" />
@@ -23,9 +23,9 @@
     <meta content="{{ site.author.name }}" name="article:author">
     <meta content="{{ site.author.name }}" name="og:article:author">
     <meta content="{{ site.author.name }}" name="twitter:article:author">
-    <meta content="{{ page.excerpt }}" name="description">
-    <meta content="{{ page.excerpt }}" property="og:description" />
-    <meta content="{{ page.excerpt }}" property="twitter:description" />
+    <meta content="{{ page.excerpt | strip_html | strip_newlines }}" name="description">
+    <meta content="{{ page.excerpt | strip_html | strip_newlines }}" property="og:description" />
+    <meta content="{{ page.excerpt | strip_html | strip_newlines }}" property="twitter:description" />
   {% endif %}
 
   {% if page.image.featured %}

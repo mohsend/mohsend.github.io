@@ -5,7 +5,7 @@ title: Home
 
 <div class="posts">
   {% for post in paginator.posts %}
-  <div class="post">
+  <div class="post {{ post.class }}">
 	{% if post.image.featured %}
 	<img class="featuredimage" src="{{ post.image.featured }}">
 	{% endif %}
