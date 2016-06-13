@@ -2,8 +2,8 @@
 	direction: rtl;
 }
 
-.sidebar .licence {
-	font-size: 0.6rem;
+#license {
+	font-size: 15px;
 }
 
 .featuredimage {
