@@ -25,14 +25,15 @@ paginate:         7
 
 # Custom vars
 options:
-  theme:			theme-base-0c
+  bodyclass:			'theme-base-0c'
   license:          '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Attribution License" style="border-width:0; display: inline; margin: 0;" src="/public/cc-by.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">mehsen</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://mehsen.com" property="cc:attributionName" rel="cc:attributionURL">Mohsen Dastjerdi Zade</a>.'
 
 social:
-  github:           https://github.com/mohsend
-  twitter:			https://twitter.com/dstjrd
-  googleplus:		https://plus.google.com/+mohsendastjerdizade
+  github:           https://github.com/mohsend/
+  twitter:			https://twitter.com/dstjrd/
+  googleplus:		https://plus.google.com/+mohsendastjerdizade/
   email:			mailto:me@mehsen.com
-  linkedin:			https://ir.linkedin.com/in/mohsend
+  linkedin:			https://ir.linkedin.com/in/mohsend/
   instagram:		https://www.instagram.com/mehsend/
-  telegram:			https://telegram.me/mehsend
+  telegram:			https://telegram.me/mehsend/
+  goodreads:		https://www.goodreads.com/mohsend/
