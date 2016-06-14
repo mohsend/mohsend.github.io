@@ -13,7 +13,7 @@ title:            mehsen
 tagline:          'personal mehsite'
 description:      'A blog to express my strong meh stance on various matters.'
 url:              https://mehsen.com
-baseurl:          /
+baseurl:          ''
 enforce_ssl:      mehsen.com
 
 author:
