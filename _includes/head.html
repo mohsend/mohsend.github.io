@@ -1,5 +1,5 @@
 <head>
-  {% if site.enforce_ssl != null %}
+  {% if site.enforce_ssl != '' %}
   <script type="text/javascript">
     // Redirect to https if on enforced_ssl domain
     var host = "{{ site.enforce_ssl }}";
@@ -7,6 +7,8 @@
       window.location.protocol = "https";
   </script>
   {% endif %}
+  
+  {% if page.head %}{{ page.head }}{% endif %}
   
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
   <meta charset="UTF-8">
@@ -26,9 +28,9 @@
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ site.baseurl }}/public/css/all.min.css">
-  
+
 	{% include favicons.html %}
-	
+
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 </head>

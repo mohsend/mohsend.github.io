@@ -1,6 +1,10 @@
 ---
 title: Mohsen Dastjerdi Zade
 layout: page
+head: '<meta content="Mohsen" property="og:profile:first_name" />
+<meta content="Dastjerdi Zade" property="og:profile:last_name" />
+<meta content="male" property="og:profile:gender" />
+<meta itemprop="name" content="Mohsen Dastjerdi Zade">'
 ---
 
 hello there. my name is mohsen dastjerdi zade.  
