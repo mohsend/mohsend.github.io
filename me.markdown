@@ -4,7 +4,9 @@ layout: page
 head: '<meta content="Mohsen" property="og:profile:first_name" />
 <meta content="Dastjerdi Zade" property="og:profile:last_name" />
 <meta content="male" property="og:profile:gender" />
-<meta itemprop="name" content="Mohsen Dastjerdi Zade">'
+<meta itemprop="name" content="Mohsen Dastjerdi Zade">
+<meta content="https://avatars1.githubusercontent.com/u/4129635" name="image" />
+<meta content="https://avatars1.githubusercontent.com/u/4129635" name="og:image" />'
 ---
 
 hello there. my name is mohsen dastjerdi zade.  
