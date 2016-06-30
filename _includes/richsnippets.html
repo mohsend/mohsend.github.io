@@ -1,7 +1,7 @@
   <!-- http://ogp.me/ -->
-  <meta content="{{ site.url }}{{ page.url }}" property="url" />
-  <meta content="{{ site.url }}{{ page.url }}" property="og:url" />
-  <meta content="{{ site.url }}{{ page.url }}" property="twitter:url" />
+  <meta content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" property="url" />
+  <meta content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" property="og:url" />
+  <meta content="{{ site.url }}{{ site.baseurl }}{{ page.url }}" property="twitter:url" />
   
   {% if page.title == "Home" %}
     <meta content="{{ site.title }} &middot; {{ site.tagline }}" property="title" />
@@ -29,11 +29,11 @@
   {% endif %}
 
   {% if page.image.featured %}
-    <meta content="{{ site.url }}{{ page.image.featured }}" name="image" />
-    <meta content="{{ site.url }}{{ page.image.featured }}" name="og:image" />
-    <meta content="{{ site.url }}{{ page.image.featured }}" name="twitter:image:src" />
+    <meta content="{{ site.url }}{{ site.baseurl }}{{ page.image.featured }}" name="image" />
+    <meta content="{{ site.url }}{{ site.baseurl }}{{ page.image.featured }}" name="og:image" />
+    <meta content="{{ site.url }}{{ site.baseurl }}{{ page.image.featured }}" name="twitter:image:src" />
   {% else %}
-    <meta content="{{ site.url }}{{ site.options.image }}" name="image" />
-    <meta content="{{ site.url }}{{ site.options.image }}" name="og:image" />
-    <meta content="{{ site.url }}{{ site.options.image }}" name="twitter:image:src" />
+    <meta content="{{ site.url }}{{ site.baseurl }}{{ site.options.image }}" name="image" />
+    <meta content="{{ site.url }}{{ site.baseurl }}{{ site.options.image }}" name="og:image" />
+    <meta content="{{ site.url }}{{ site.baseurl }}{{ site.options.image }}" name="twitter:image:src" />
   {% endif %}
