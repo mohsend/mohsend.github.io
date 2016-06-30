@@ -1,7 +1,8 @@
 ---
 title: Mohsen Dastjerdi Zade
 layout: page
-head: '<meta content="profile" property="og:type" />
+head: '<meta content="Ways you can contact Mohsen Dastjerdi Zade." property="og:description" />
+<meta content="profile" property="og:type" />
 <meta content="Mohsen" property="og:profile:first_name" />
 <meta content="Dastjerdi Zade" property="og:profile:last_name" />
 <meta content="male" property="og:profile:gender" />
