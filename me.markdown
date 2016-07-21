@@ -11,8 +11,7 @@ head: '<meta content="Ways you can contact Mohsen Dastjerdi Zade." property="og:
 <meta content="https://avatars1.githubusercontent.com/u/4129635" name="og:image" />'
 ---
 
-hello there. my name is mohsen dastjerdi zade.  
-there are a lot of ways we can connect.
+hello. my name is mohsen dastjerdi zade.
 
 you can [email](mailto:me@mehsen.com) me.  
 we can collaborate with [github](https://github.com/mohsend/).  

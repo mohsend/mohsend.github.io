@@ -6,11 +6,13 @@ tags: Freewriting, Pencil
 layout: post
 ---
 
-> The pen is mightier than the sword.  ---Edward Bulwer-Lytton
+> The pen is mightier than the sword.  
+---Edward Bulwer-Lytton
 
 Sure. But on top of that I believe:
 
-> The pencil is mightier than the pen.  ---me 
+> The pencil is mightier than the pen.  
+---me 
 
 <!--more-->
 

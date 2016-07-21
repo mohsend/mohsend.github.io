@@ -15,7 +15,7 @@ Maybe I understood the importance of writing in just every other task. Maybe I f
 
 Whatever it is I should stop worrying about _the_ number ---word count--- and just get busy writing.
 
-The name of this text is borrowed from the name of a (series of) tracks by my good friend Sina.
+The name of this text is borrowed from the name of a (series of) tracks by my good friend, [Sina](https://www.instagram.com/sinaswebz/).
 
 ```
 1452457307 - Tehran  

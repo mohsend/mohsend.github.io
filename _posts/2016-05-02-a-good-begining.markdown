@@ -4,8 +4,6 @@ date: 2016-05-02
 category: Music
 tags: Music, Icelandic, Quote
 layout: post
-image:
-  featured: /public/posts/2016-05-02-disappointment.jpg
 ---
 
 ... þetta er ágætis byrjun.
@@ -20,5 +18,6 @@ image:
 ```
 1462178163 - Tehran
 1464007977 - Tehran
-1465045933 - Tehran
+1465045933 - Tehran  
+1468615629 - Tehran  
 ```
