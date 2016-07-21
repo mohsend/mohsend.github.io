@@ -13,6 +13,23 @@
 	border-radius: 0;
 }
 
+html {
+	font-family: 'Pontano Sans', Helvetica, Arial, sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Oswald', Helvetica, Arial, sans-serif;
+}
+
+.sidebar-about h1 {
+  font-family: 'Oswald', Helvetica, Arial, sans-serif;
+}
+
+.sidebar a {
+  font-family: 'Oswald', Helvetica, Arial, sans-serif;
+}
+
 /* Uncomment if your content is RTL
 .post {
 	direction: rtl;
