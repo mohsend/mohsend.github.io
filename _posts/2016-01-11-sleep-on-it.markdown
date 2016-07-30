@@ -14,6 +14,6 @@ Good things take time; sleep on it.
 
 ```
 1452528152 - Tehran  
-1452530528 - Tehran  
-1453112784 - Tehran  
+1452530528
+1453112784
 ```
