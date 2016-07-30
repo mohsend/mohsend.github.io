@@ -13,6 +13,5 @@ _**What a time to be alive!**_
 
 ```
 1463704809 - Tehran
-1464006521 - Tehran
-
+1464006521 
 ```

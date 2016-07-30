@@ -16,5 +16,5 @@ Keep typing, do as much as possible.
 
 ```
 1451949819 - Tehran  
-1452006669 - Tehran
+1452006669 
 ```

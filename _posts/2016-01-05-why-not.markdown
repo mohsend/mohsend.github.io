@@ -18,6 +18,6 @@ Here’s hoping for the best.
 
 ```
 1451997581 - Tehran  
-1452006632 - Tehran
-1454190915 - Tehran
+1452006632 
+1454190915
 ```

@@ -20,7 +20,7 @@ So the plan is to fill the list with all kinds of cool stuff I like to do instea
 
 ```
 1452370094 - Tehran  
-1452457607 - Tehran  
-1465070016 - Tehran  
-1467581969 - Tehran  
+1452457607
+1465070016
+1467581969 
 ```
