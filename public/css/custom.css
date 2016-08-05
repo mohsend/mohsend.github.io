@@ -30,13 +30,47 @@ h1, h2, h3, h4, h5, h6 {
   font-family: 'Oswald', Helvetica, Arial, sans-serif;
 }
 
-/* Uncomment if your content is RTL
-.post {
-	direction: rtl;
+/* theme-mehsen */
+.theme-mehsen .sidebar {
+  background-color: #0A837F;
+}
+.theme-mehsen .sidebar a {
+  color: #EFEFEF;
+}
+.theme-mehsen .content a,
+.theme-mehsen .related-posts li a:hover,
+.theme-mehsen h1,
+.theme-mehsen h2,
+.theme-mehsen h3,
+.theme-mehsen h4,
+.theme-mehsen h5,
+.theme-mehsen h6 {
+  color: #076461;
+}
+.theme-mehsen {
+  color: #002C2B;
+  background-color:#EFEFEF;
 }
 
-.sidebar {
-	direction: rtl;
-	text-align: right
+/* http://www.colourlovers.com/palette/101983/Lemonless */
+.theme-mehsen-02 .sidebar {
+  background-color: #FFBC11;
 }
-*/
+.theme-mehsen-02 .content a,
+.theme-mehsen-02 .related-posts li a:hover {
+  color: #FF3D00;
+}
+.theme-mehsen-02 {
+  color: #002C2B;
+}
+
+/*  RTL */
+.rtl .post {
+  direction: rtl;
+}
+
+.rtl .sidebar {
+  direction: rtl;
+  text-align: right
+}
+
