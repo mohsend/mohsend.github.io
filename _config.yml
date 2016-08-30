@@ -6,7 +6,7 @@ permalink:        pretty
 highlighter:      rouge
 
 # Gems
-gems: [jekyll-paginate, jekyll-sitemap]
+gems: [jekyll-paginate, jekyll-sitemap, jekyll-github-metadata]
 
 # Setup
 title:            mehsen
