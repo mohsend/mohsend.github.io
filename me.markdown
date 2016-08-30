@@ -1,5 +1,5 @@
 ---
-title: Mohsen Dastjerdi Zade
+title: Contact Me
 layout: page
 head: '<meta content="Ways you can contact Mohsen Dastjerdi Zade." property="og:description" />
 <meta content="profile" property="og:type" />
@@ -11,13 +11,14 @@ head: '<meta content="Ways you can contact Mohsen Dastjerdi Zade." property="og:
 <meta content="https://avatars1.githubusercontent.com/u/4129635" name="og:image" />'
 ---
 
-hello. my name is mohsen dastjerdi zade.
+hello. my name is **Mohsen Dastjerdi Zade**.
 
-you can [email](mailto:me@mehsen.com) me.  
-we can collaborate with [github](https://github.com/mohsend/).  
-we can connect on [linkedin](https://ir.linkedin.com/in/mohsend/).  
-we can have each other in our [google+](https://plus.google.com/+mohsendastjerdizade/) circles.  
-we can follow each other's [twitter](https://twitter.com/dstjrd/) account.  
-we can follow each other in [instagram](https://www.instagram.com/mehsend/).  
-we can have a chat using [telegram](https://telegram.me/mehsend/).  
-we can recommend books to each other on [goodreads](https://www.goodreads.com/mohsend/).   
+you can [**email**](mailto:me@mehsen.com) me.  
+we can collaborate with [**github**](https://github.com/mohsend/).  
+we can connect on [**linkedin**](https://ir.linkedin.com/in/mohsend/).  
+we can have each other in our [**google+**](https://plus.google.com/+mohsendastjerdizade/) circles.  
+we can follow each other in [**instagram**](https://www.instagram.com/mehsend/).  
+we can enjoy photography on [**flickr**](https://www.flickr.com/photos/mehsen/).  
+we can have a chat using [**telegram**](https://telegram.me/mehsend/).  
+we can recommend books to each other on [**goodreads**](https://www.goodreads.com/mohsend/).  
+we can follow each other's [**twitter**](https://twitter.com/dstjrd/) account.  
