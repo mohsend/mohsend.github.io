@@ -17,13 +17,22 @@ Bellow is a list of [my public Github](https://github.com/mohsend/) reopsitories
 ## [{{ repository.name }}]({{ repository.html_url }})  
  {{ repository.description }}
 
-{% if homepage != "" %} * Home page: [{{ repository.homepage }}]({{ repository.homepage }}) {% endif %}
-{% if lang != "" %} * Language: {{ repository.language }} {% endif %}
- * Last update: {{ repository.updated_at | date: "%b %d, %Y"}}
- * Started: {{ repository.created_at | date: "%b %d, %Y" }}
-{% if repository.stargazers_count > 0 %} * [Stargazers: {{ repository.stargazers_count }}]({{ repository.html_url | append:'/stargazers' }}) {% endif %}
-{% if repository.fork %} * Forked Project {% endif %}
-
+<ul>
+{% if homepage != "" %}
+  <li>Home page: <a href="{{ repository.homepage }}">{{ repository.homepage }}</a></li>
+{% endif %}
+{% if lang != "" %}
+ <li>Language: {{ repository.language }}</li> 
+{% endif %}
+ <li>Last update: {{ repository.updated_at | date: "%b %d, %Y"}}</li>
+ <li>Started: {{ repository.created_at | date: "%b %d, %Y" }}</li>
+{% if repository.stargazers_count > 0 %}
+  <li><a href="{{ repository.html_url | append:'/stargazers' }}">Stargazers: {{ repository.stargazers_count }}</a></li>
+{% endif %}
+{% if repository.fork %}
+  <li>Forked Project</li>
+{% endif %}
+</ul>
 ---
 
 {% endfor %}
