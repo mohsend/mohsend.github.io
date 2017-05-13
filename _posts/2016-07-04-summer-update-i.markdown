@@ -27,7 +27,7 @@ A brief update on what I did so far:
 - Watched [a video](https://www.youtube.com/watch?v=YgtL4S7Hrwo) of [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum); author of Python language. [Reza](https://twitter.com/shalbafzadeh), a close friend, recommended it and I'll forever be thankful for it. It touched me and truly changed how I see the world. He told me he had similar feelings about the video.  
 - Started learning Python 3 after that and fell in love with it.  
 - Had long, deep conversations with a few of my friends. Something I rarely did in the past; but now I find vital; specially for mental well-being.  
-- Read [an interesting biography of Elon Musk](/update/2017/05/11/elon-musk-book/ "Mehsen.com: Friendship, Kindle, and Elon Musk"). It was motivating with an enjoyable and easy-to-read writing. Totally recommended.  
+- Read [an interesting biography of Elon Musk](/review/2017/05/11/elon-musk-book/ "Mehsen.com: Friendship, Kindle, and Elon Musk"). It was motivating with an enjoyable and easy-to-read writing. Totally recommended.  
 - Went on a road trip with family and had a splendid time.  
 - Spent a day in a startup accelerator in Tehran, and observed the atmosphere and the work flow.  
 - Started drafting a lesson plan for a [‘everyday *nix’ class](https://github.com/mohsend/everyday-nix).  

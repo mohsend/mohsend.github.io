@@ -1,4 +1,4 @@
-﻿---
+---
 title: Friendship, Kindle, and Elon Musk
 date: 2017-05-11
 category: review
@@ -12,7 +12,7 @@ how and for what I use my Kindle, and why you may want to own one.
 
 ## Friendship...
 
-The story begins by a message in Telegram[^telegram] from [Amir]($$$), one of my closest friends. 
+The story begins by a message in Telegram[^telegram] from Amir, one of my closest friends. 
 It was just a single link with no description. 
 The actual conversation in its entirety is as follows:
 
@@ -49,7 +49,7 @@ halfway through ['The Picture of Dorian Gray' by Oscar Wilde](https://www.goodre
 
 It took me a long time to finish this review of the book and that would have been impossible to do without the highlight feature. It can be a real timesaver to have all of your notes and highlights of a book in a list.
 
-```I'm writing this months after finishing the book and I can't imagine doing this without reviewing the highlights.  Reviewing highlights of a book can freshen the whole experience. You can recall nearly all the book which results in a deeper influence.```
+```I'm writing the following segment of the book months after finishing the it and I wouldn't be able to do this without reviewing my highlights.  Reviewing highlights of a book can freshen the whole experience.```
 
 ## ...Elon Musk
 
@@ -83,5 +83,6 @@ There was dark sides to this hardworking startup genius too and the book did not
 1472585588  
 1472935179  
 1494443963  
+1494705975  
 ```
 
