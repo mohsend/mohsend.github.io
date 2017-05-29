@@ -43,13 +43,12 @@ I finally started reading it.
 
 The illustrations of the article are *really funny*. The article is Part 1 of a four-part series on Elon Musk's companies.
 To be honest I skipped the other three. What I did instead was to mark the biography book mentioned in the article, ['Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future' by Ashlee Vance](
-https://www.goodreads.com/book/show/22535480-elon-musk "View the book on Goodreads.com"), as 'to-read' in Goodreads.
-And getting it on my Kindle after that. At the time I was (and in the time of writing this still am)
+https://www.goodreads.com/book/show/22535480-elon-musk "View the book on Goodreads.com"), as 'to-read' in Goodreads and downloaded it on my Kindle after that. At the time I was (and still am)
 halfway through ['The Picture of Dorian Gray' by Oscar Wilde](https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray "View the book on Goodreads.com") ---recommend by another friend. I have to admit while the characters are well developed and the writing is rock solid and I kinda enjoy reading it, classics are not for me; as it seems to take me forever to finish them. But they are usually in public domain and free, therefore economical choices for reading.[^gutenberg]
 
 It took me a long time to finish this review of the book and that would have been impossible to do without the highlight feature. It can be a real timesaver to have all of your notes and highlights of a book in a list.
 
-```I'm writing the following segment months after finishing the book and I couldn't do this without reviewing my highlights. Reviewing highlights of a book can freshen the whole experience. Reviewing the highlights of books can be a good habit for someone forgetful like me .```
+```I'm writing the following segment months after finishing the book and I couldn't do this without reviewing my highlights. Reviewing highlights of a book can freshen the whole experience therefore a good habit to get into for someone forgetful like me .```
 
 ## ...Elon Musk
 
@@ -57,14 +56,13 @@ It took me more than two months to finally open the book and start reading it.
 The irrational guilt associated with starting a book while I haven't finished the last one yet was to blame.
 All the same, a month after that the 400-page book was finished.
 
-Near the end of the book, I wished it never ended.
+Getting to the end of the book, I wished it never ended.
 I couldn't get enough of the fascinating (true) story I was reading.
-Lucky for me ---and all of us, really--- he is alive and well and in his golden years. Hardly any day passes without him or one of his companies making headlines. Following the news around him is somehow reading the book after its end.
+Lucky for me ---and all of us, really--- he is alive and well and in his golden years. Hardly any day passes without him or one of his companies making headlines. Following the news around him is somehow reading the book after the (metaphorical) back cover.
 
+More than anything, for me, the book was a huge motive to work hard. Musk and employees' superhuman work ethic is the ever prominent topic in the book. As one [SpaceX](https://en.wikipedia.com/wiki/SpaceX) intern puts it, "You can work whatever 80 hours a week you want".[^intern] This way of work was in dire contrast with the chill atmosphere portrayed in the book I read right before this ---[How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works). And all that hard work actually sounded so fulfilling and rewarding. For a few glorious days I was working harder than I ever did before.   
 
-More than anything, for me, the book was a huge motive to work hard. Musk and employees' superhuman work ethic is the ever prominent topic in the book. As one [SpaceX](https://en.wikipedia.com/wiki/SpaceX) intern puts it, "You can work whatever 80 hours a week you want".[^intern] This way of work was in dire contrast with the chill atmosphere portrayed in the book I read before this, [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works). And all that hard work actually sounded so fulfilling and rewarding. And for a few glorious days I was working more than I ever did.   
-
-There was dark sides to this hardworking startup genius too and the book did not shy away from those at all. Musk's impatience on what appears to a normal human being as trivial and disrespect for his employees opinions and his (dare I say deserved) huge ego cost his businesses a lot of top talents. 
+There is dark sides to this hardworking startup genius too and the book does not seem to shy away from those at all. Musk's impatience on what appears to a normal human being as trivial; and disrespect for his employees opinions; and his (dare I say deserved) huge ego cost his businesses a lot of top talents. 
 
 [^telegram]: A popular messaging service as of writing. [Telegram.org](https://telegram.org "Telegram Messenger")  
 
@@ -72,7 +70,7 @@ There was dark sides to this hardworking startup genius too and the book did not
 
 [^send]: [Send to Kindle by E-mail](https://www.amazon.com/gp/sendtokindle/email "Amazon.com: Send to Kindle by E-mail")
 
-[^gutenberg]: There are thousands of public domain books in [Project Gutenberg](https://www.gutenberg.org/ "A digital library of free ebooks.") and whole lot of public domain stuff from books and audiobooks to paintings and photographies in [The Internet Archive](https://www.archive.org/ "Internet Archive: Digital Library of Free Books, Movies, Music...").
+[^gutenberg]: There are thousands of public domain books in [Project Gutenberg](https://www.gutenberg.org/ "A digital library of free ebooks."). You can also find a whole lot of public domain stuff from books and audiobooks to paintings and photographies in [The Internet Archive](https://www.archive.org/ "Internet Archive: Digital Library of Free Books, Movies, Music...").
 
 [^intern]: The exciting and grueling life of a SpaceX intern, where you meet Elon Musk and 'work whatever 80 hours a week you want' [article on  Business Insider](http://www.businessinsider.com/life-on-rocket-road-what-its-like-to-intern-at-spacex-2015-6).
 
@@ -84,6 +82,6 @@ There was dark sides to this hardworking startup genius too and the book did not
 1472935179  
 1494443963  
 1494705975  
-1496089451  
+1496090596  
 ```
 
