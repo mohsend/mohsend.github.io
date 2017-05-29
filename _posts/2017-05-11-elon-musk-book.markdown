@@ -49,7 +49,7 @@ halfway through ['The Picture of Dorian Gray' by Oscar Wilde](https://www.goodre
 
 It took me a long time to finish this review of the book and that would have been impossible to do without the highlight feature. It can be a real timesaver to have all of your notes and highlights of a book in a list.
 
-```I'm writing the following segment of the book months after finishing the it and I wouldn't be able to do this without reviewing my highlights.  Reviewing highlights of a book can freshen the whole experience.```
+```I'm writing the following segment months after finishing the book and I couldn't do this without reviewing my highlights. Reviewing highlights of a book can freshen the whole experience. Reviewing the highlights of books can be a good habit for someone forgetful like me .```
 
 ## ...Elon Musk
 
@@ -84,5 +84,6 @@ There was dark sides to this hardworking startup genius too and the book did not
 1472935179  
 1494443963  
 1494705975  
+1496089451  
 ```
 
