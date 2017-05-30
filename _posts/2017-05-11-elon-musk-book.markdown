@@ -62,7 +62,7 @@ Lucky for me ---and all of us, really--- he is alive and well and in his golden 
 
 More than anything, for me, the book was a huge motive to work hard. Musk and employees' superhuman work ethic is the ever prominent topic in the book. As one [SpaceX](https://en.wikipedia.com/wiki/SpaceX) intern puts it, "You can work whatever 80 hours a week you want".[^intern] This way of work was in dire contrast with the chill atmosphere portrayed in the book I read right before this ---[How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works). And all that hard work actually sounded so fulfilling and rewarding. For a few glorious days I was working harder than I ever did before.   
 
-There is dark sides to this hardworking startup genius too and the book does not seem to shy away from those at all. Musk's impatience on what appears to a normal human being as trivial; and disrespect for his employees opinions; and his (dare I say deserved) huge ego cost his businesses a lot of top talents. 
+There are also dark sides to this hardworking startup genius, and the book does not seem to shy away from those at all. Musk's impatience on what appears to a normal human being as trivial; and disrespect for his employees opinions; and his (dare I say deserved) huge ego cost his businesses a lot of top talents. 
 
 [^telegram]: A popular messaging service as of writing. [Telegram.org](https://telegram.org "Telegram Messenger")  
 
