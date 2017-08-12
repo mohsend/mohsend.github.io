@@ -2,25 +2,26 @@
 title: Opensource Projects
 layout: page
 ---
+I'm a strong believer in the OpenSource movement and try to be a part of it. In this page you can find projects I started or been a part of.  
 
-# [Arduino presentation](https://mehsen.com/arduino/)
+## [Arduino presentation](https://mehsen.com/arduino/)
 
 Started as a half-hour presentation for Microcontrollers course, this project grow to be my guide to start learning Arduino for Persian audience.
 
-License: [CC BY 4.0](https://github.com/mohsend/arduino/blob/master/LICENSE.md) and [MIT](https://opensource.org/licenses/MIT)
+License: [CC BY 4.0](https://github.com/mohsend/arduino/blob/master/LICENSE.md) and [MIT](https://opensource.org/licenses/MIT)  
+Language: Persian  
 
 ---
 
-# [Ambient city](https://t.me/AmbientCity)
+## [Ambient city](https://t.me/AmbientCity)
 
 I like to call myself an audio enthusiast. A quest for better music quality introduced me to audio engineering and that to audio in general. When I bought a new smartphone I was pleasantly surprised when I found two high quality microphones perfectly placed on either side; so I started recording ambient sounds when I was out and about and decided to share them with the world.
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
+Language: English
 --------
 
 # Github reopsitories
-I'm a strong believer in the OpenSource movement and try to be a part of it.  
 Bellow is a list of [my public Github](https://github.com/mohsend/) reopsitories.
 
 ---
@@ -40,6 +41,9 @@ Bellow is a list of [my public Github](https://github.com/mohsend/) reopsitories
 {% endif %}
 {% if lang != "" %}
  <li>Language: {{ repository.language }}</li> 
+{% endif %}
+{% if  repository.license != NULL %}
+ <li>License: <a href="{{ repository.html_url | append:'/blob/master/LICENSE.md'}}">{{ repository.license }}</a></li> 
 {% endif %}
  <li>Last update: {{ repository.updated_at | date: "%b %d, %Y"}}</li>
  <li>Started: {{ repository.created_at | date: "%b %d, %Y" }}</li>
