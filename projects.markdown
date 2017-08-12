@@ -1,8 +1,25 @@
----
+﻿---
 title: Opensource Projects
 layout: page
 ---
 
+# [Arduino presentation](https://mehsen.com/arduino/)
+
+Started as a half-hour presentation for Microcontrollers course, this project grow to be my guide to start learning Arduino for Persian audience.
+
+License: [CC BY 4.0](https://github.com/mohsend/arduino/blob/master/LICENSE.md) and [MIT](https://opensource.org/licenses/MIT)
+
+---
+
+# [Ambient city](https://t.me/AmbientCity)
+
+I like to call myself an audio enthusiast. A quest for better music quality introduced me to audio engineering and that to audio in general. When I bought a new smartphone I was pleasantly surprised when I found two high quality microphones perfectly placed on either side; so I started recording ambient sounds when I was out and about and decided to share them with the world.
+
+License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+--------
+
+# Github reopsitories
 I'm a strong believer in the OpenSource movement and try to be a part of it.  
 Bellow is a list of [my public Github](https://github.com/mohsend/) reopsitories.
 
