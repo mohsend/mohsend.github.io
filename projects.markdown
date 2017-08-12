@@ -1,4 +1,4 @@
-﻿---
+---
 title: Opensource Projects
 layout: page
 ---
