@@ -18,8 +18,9 @@ Language: Persian
 I like to call myself an audio enthusiast. A quest for better music quality introduced me to audio engineering and that to audio in general. When I bought a new smartphone I was pleasantly surprised when I found two high quality microphones perfectly placed on either side; so I started recording ambient sounds when I was out and about and decided to share them with the world.
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-Language: English
---------
+Language: English  
+
+---
 
 # Github reopsitories
 Bellow is a list of [my public Github](https://github.com/mohsend/) reopsitories.
@@ -42,9 +43,9 @@ Bellow is a list of [my public Github](https://github.com/mohsend/) reopsitories
 {% if lang != "" %}
  <li>Language: {{ repository.language }}</li> 
 {% endif %}
-{% if  repository.license != NULL %}
+
  <li>License: <a href="{{ repository.html_url | append:'/blob/master/LICENSE.md'}}">{{ repository.license }}</a></li> 
-{% endif %}
+
  <li>Last update: {{ repository.updated_at | date: "%b %d, %Y"}}</li>
  <li>Started: {{ repository.created_at | date: "%b %d, %Y" }}</li>
 {% if repository.stargazers_count > 0 %}
