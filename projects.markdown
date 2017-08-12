@@ -43,9 +43,6 @@ Bellow is a list of [my public Github](https://github.com/mohsend/) reopsitories
 {% if lang != "" %}
  <li>Language: {{ repository.language }}</li> 
 {% endif %}
-
- <li>License: <a href="{{ repository.html_url | append:'/blob/master/LICENSE.md'}}">{{ repository.license }}</a></li> 
-
  <li>Last update: {{ repository.updated_at | date: "%b %d, %Y"}}</li>
  <li>Started: {{ repository.created_at | date: "%b %d, %Y" }}</li>
 {% if repository.stargazers_count > 0 %}
