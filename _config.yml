@@ -14,19 +14,19 @@ tagline:          'personal mehsite'
 description:      'A blog to express my strong <b>meh</b> stance on various matters.'
 url:              https://mehsen.com
 baseurl:          ''
-enforce_ssl:      mehsen.com
+lang:             'en-us'
 
 author:
   name:           'Mohsen Dastjerdi Zade'
   url:            https://mehsen.com/me/
-  email:
+  email:          me@mehsen.com
 
 paginate:         7
 
 # Custom vars
 options:
   bodyclass:			'theme-mehsen-01'
-  license:        '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Attribution License" style="border-width:0; display: inline; margin: 0; width: 80px; height: 15px;" src="/public/cc-by.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">mehsen</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://mehsen.com" property="cc:attributionName" rel="cc:attributionURL">Mohsen Dastjerdi Zade</a> &middot; 2016 &middot; Some Rights Reserved.'
+  license:        '<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Attribution License" style="border-width:0; display: inline; margin: 0; width: 80px; height: 15px;" src="/public/cc-by.png" /></a> <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">mehsen</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://mehsen.com" property="cc:attributionName" rel="cc:attributionURL">Mohsen Dastjerdi Zade</a> &middot; 2016-2017 &middot; Some Rights Reserved.'
   image:          '/public/favicon/apple-touch-icon.png'
 
 social:
@@ -38,3 +38,6 @@ social:
   instagram:		https://www.instagram.com/mehsend/
   telegram:			https://telegram.me/mehsend/
   goodreads:		https://www.goodreads.com/mohsend/
+  youtube:			https://www.youtube.com/channel/UC042DJhjdsKnTmKKOwdmGjg
+  flickr:			https://www.flickr.com/photos/mehsen/
+  

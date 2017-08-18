@@ -1,13 +1,4 @@
 <head>
-  {% if site.enforce_ssl != '' %}
-  <script type="text/javascript">
-    // Redirect to https if on enforced_ssl domain
-    var host = "{{ site.enforce_ssl }}";
-    if ((host == window.location.host) && (window.location.protocol != "https:"))
-      window.location.protocol = "https";
-  </script>
-  {% endif %}
-  
   {% if page.head %}{{ page.head }}{% endif %}
   
   <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">

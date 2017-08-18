@@ -17,7 +17,7 @@ you can [**email**](mailto:me@mehsen.com) me.
 we can collaborate with [**github**](https://github.com/mohsend/).  
 we can connect on [**linkedin**](https://ir.linkedin.com/in/mohsend/).  
 we can follow each other's [**twitter**](https://twitter.com/dstjrd/) feed.  
-you can join my [**telegram channel**](https://t.me/mehsen.com)
+you can join my [**telegram channel**](https://t.me/mehsen_com/)
 we can have each other in our [**google+**](https://plus.google.com/+mohsendastjerdizade/) circles.  
 we can recommend books to each other on [**goodreads**](https://www.goodreads.com/mohsend/).  
 we can follow each other in [**instagram**](https://www.instagram.com/mehsend/).  
