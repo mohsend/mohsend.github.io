@@ -1,6 +1,7 @@
----
+﻿---
 title: Opensource Projects
 layout: page
+order: 19
 ---
 I'm a strong believer in the OpenSource movement and try to be a part of it. In this page you can find projects I started or been a part of.  
 
@@ -13,9 +14,9 @@ Language: Persian
 
 ---
 
-## [Ambient city](https://t.me/AmbientCity)
+## [Ambient city](https://freesound.org/people/mehsen/packs/22745/)
 
-I like to call myself an audio enthusiast. A quest for better music quality introduced me to audio engineering and that to audio in general. When I bought a new smartphone I was pleasantly surprised when I found two high quality microphones perfectly placed on either side; so I started recording ambient sounds when I was out and about and decided to share them with the world.
+I like to call myself an audio enthusiast. A quest for better music quality lead me to audio engineering and that to audio in general. When I bought a new smartphone I was pleasantly surprised when I found two high quality microphones perfectly placed on either side; so I started recording ambient sounds when I was out and about and decided to share them with the world. While technically they are not binaural recordings, when listening with headphones they do convey a sense of atmosphere.   
 
 License: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 Language: English  
