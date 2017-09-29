@@ -25,7 +25,7 @@ In reality though, the truth is, no one really cares. People are too busy with t
 
 All that said, this whole post started as a recommendation to this short video that really changed my mindset and helped me a lot to open up. I re-watch it from time to time and I guess you can benefit from it too.
 
-[A guide to worrying](https://www.youtube.com/watch?v=k5RH3BdXDOY)
+[▶ A guide to worrying](https://www.youtube.com/watch?v=k5RH3BdXDOY)
 
 ```
 1506644225 - Tehran  
