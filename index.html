@@ -17,7 +17,13 @@ order: 4
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
+    {% if post.audio %}
+    <audio preload="metadata" controls>
+      <source src="{{ post.audio.ogg.file }}" type="audio/ogg">
+      <source src="{{ post.audio.mp3.file }}" type="audio/mpeg">
+Your browser does not support the audio element. Here's download links: <a href="{{ post.audio.mp3.file }}" download>Download MP3</a> / <a href="{{ post.audio.ogg.file }}" download>Download OGG</a>
+    </audio>
+    {% endif %}
     {{ post.content }}
   </div>
   {% endfor %}
