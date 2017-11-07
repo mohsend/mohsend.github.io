@@ -1,4 +1,4 @@
----
+﻿---
 title: Stargazing
 date: 2017-11-07
 category: Freewritings
@@ -6,16 +6,24 @@ tags: instructions
 layout: post
 ---
 
-﻿according to some study or something, a percentage of people never see the milky way in their life; and that you should not be in that percentage. Here’s what you should do.
+One third of the population can’t see the milky way. And in industrial countries there are generation of people whom have never seen the milky way. 
 
-first you pick a date with minimal moonlight, the beginning or end of lunar cycle. and a night with clear sky. you then drive to some place as far as possible from light pollution from cities. when you got there you place a mat on the ground and lie down on it. you avoid any kind of light, like your phone’s screen or headlights on your car. and you avoid looking at the sky above.
+in 1994, an earthquake shook Los Angeles 4:30 in the morning and caused a city-wide blackout. People anxiously came out of their homes to check out on the neighborhood but what they saw in the sky was so alien and strange to them that some called emergency and asked if the giant silvery cloud had anything to do the the quake.   
 
-you lie down with your eyes closed, listening to silence; no music, no talking for five minutes. you give your eyes time to rest and adapt to the dark. and with minimal sensory input, your brain gets ready to process what’s about to come. and then you open your eyes to the sky above and see the same magical thing your ancestors used to saw. you see a wide stripe of white on the pitch black background. and thousands upon thousands of tiny balls of light all over this black dome. they look so close that if you just reach your hand a bit more you can grab them. but of course they are millions of light years afar.
+It shouldn’t be like this. We are detached from the universe and cosmos and it’s giving us the illusion that we are all that matters. We are so drenched in our daily lives that we think whatever we are facing right now is the biggest thing in the world. 
 
-about milky way: this white stripe is made up of billions of indistinguishable stars in our home galaxy, the milky way.
+You should take some time off from time to time to gaze at the endless sky above. I’ll describe how your amazing star gazing trip will go. 
 
-shooting stars: most of the time there are one or two meteor showers going on. check their places in advance and you’ll surly see a few shooting stars.
+First you find a place as far as possible cities and their light pollution. Maybe use a map to find a remote place that you have a way of getting to. Next you pick a date. Using a lunar calendar and the weather forecast of the place you pick a date in the beginning or end of lunar cycle with clear night sky.
 
-no image or video can come close to the sensation of seeing the thing in person.
+On the chosen day; you get into a car, solo or with one or two close friends, and hit the roads. You Take a country lane or a dirt road and drive away from road lights; You see a nice place, you go a bit off road and stop at a nice, flat surface. You get out of the car, place a mat on the ground. From this moment on avoid any kind of light, like your phone’s screen or headlights on your car. And you avoid looking at the sky for now.
 
-13:45 august 18, 2017. A dream.     
+You lie down on the mat with your eyes closed, listening to silence; no music, no talking for five minutes. You are giving your eyes time to rest and adapt to the dark. Also with minimal sensory input, your brain can rest a bit, and slowly put away all the filters it has set up through the day so it can function in a busy world. 
+
+Now you feel you are ready. You open your eyes to the sky above and see the same magical thing your ancestors used to see. you see thousands upon thousands of tiny balls of light scattered on this unbelievably wast black dome they look so close that if you just reach your hand a bit more you can grab them. but of course they are millions of light years afar. At the center, stretched all the way, is a wide stripe of silver. this  stripe is made up of billions of indistinguishable stars, each millions of times bigger than earth, in our home galaxy, the milky way.
+
+You have seen pictures and videos of the night sky. But nothing can come close to the majesty of what’s in front of your eyes.
+
+All of a sudden you see a shooting star! There are one or more meteor showers going on. You have looked up tonight’s shower’s radiant points and have an eye on those parts. You see tens of shooting stars through the night.
+
+inspired by a dream on the morning of August 18, 2017.
