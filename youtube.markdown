@@ -7,8 +7,6 @@ order: 30
 * Table of Content
 {:toc}
 
-# Favorite Youtube Channels
-
 Over the years I found and followed some amazing youtube creators. Here is some of them, categorized based on their main niche.
 
 # Music
